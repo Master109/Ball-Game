@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ThirdPersonController2[3].js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothLookAt.js" Line="1" Column="1" />
+      <File FileName="Assets\MoveCube.js" Line="30" Column="2" />
+      <File FileName="Assets\Kill Player.js" Line="43" Column="63" />
+      <File FileName="Assets\ThirdPersonController2[3].js" Line="121" Column="4" />
+      <File FileName="Assets\CreateShapesAndCalculateScore[2].js" Line="1" Column="1" />
+      <File FileName="Assets\MoveCube2.js" Line="24" Column="37" />
+      <File FileName="Assets\RotateCube.js" Line="24" Column="53" />
+      <File FileName="Assets\MoveCube3.js" Line="22" Column="34" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" Line="2" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
